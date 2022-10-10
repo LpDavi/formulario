@@ -5,7 +5,7 @@
 ## 💻 Tecnologias
 
 - HTML 
-- CSS (With animations and Media querys)
+- CSS
 
 ## 👤 Contato
 
